@@ -1,2 +1,4 @@
 # Ahmad-ag-8042
-class project
+class project for SE 503
+Software Confguration management
+
